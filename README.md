@@ -1,3 +1,3 @@
 RoboFriends app from Zero To Mastery Course
 
-http://discoverboldly.com/RoboFriends/
+https://danielbednarz2.github.io/RoboFriends/
